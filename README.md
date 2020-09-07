@@ -20,7 +20,7 @@
 
 ## 四、操作系统核心面试
 
-
+[操作系统核心知识点总结](https://github.com/yuzhouStayHungry/the_Element_Of_IT_Interview/blob/master/2020%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98--%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
 
 ## 五、Redis相关
 

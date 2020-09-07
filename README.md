@@ -13,7 +13,7 @@
 ✭✭✭✭✭高频：为什么建立连接需要三次握手？为什么断开连接需要四次挥手？在浏览器网址输入一个url后直到浏览器显示页面的经过了哪些过程？
 ✭✭✭✭✩掌握：TCP如何实现可靠传输？状态码有哪几类，分别代表什么含义？
 
-(计算机网络核心面试题--精心整理)[https://github.com/yuzhouStayHungry/the_Element_Of_IT_Interview/blob/master/2020%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98--%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md]
+[计算机网络核心面试题--精心整理](https://github.com/yuzhouStayHungry/the_Element_Of_IT_Interview/blob/master/2020%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98--%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
 
 ## 三、数据库核心面试题
 

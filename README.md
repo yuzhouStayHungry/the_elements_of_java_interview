@@ -1,4 +1,4 @@
-# 破解后端技术面试总览
+# Java后端技术面试总览
 
 
 
@@ -18,7 +18,7 @@
 
 ## 三、数据库核心面试题
 
-[数据库必看知识点](/Users/yuzhou_1su/Desktop/2020核心面试题--破解互联网技术面试/2020核心面试题--MySQL.md)
+[数据库必看知识点](https://github.com/yuzhouStayHungry/the_Element_Of_IT_Interview/blob/master/2020%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98--MySQL.md)
 
 ## 四、操作系统核心面试
 
@@ -38,7 +38,7 @@
 
 ## 七、Java基础
 
-[基础入门](/Users/yuzhou_1su/Desktop/2020核心面试题--破解互联网技术面试/2020核心面试题--Java基础.md)
+[基础入门](https://github.com/yuzhouStayHungry/the_Element_Of_IT_Interview/blob/master/2020%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98--Java%E5%9F%BA%E7%A1%80.md)
 
 ## 八、Java多线程与并发
 
